@@ -108,3 +108,39 @@ a {
   max-width: 1230px;
   margin: 0 auto;
 }
+
+/* buttons */
+.btn {
+  padding: 10px 50px;
+  width: fit-content;    
+  border-radius: 15px;
+}
+.btn-purple {
+  color: #fff;
+  background: #7B4DF6;
+}
+.btn-transparent {
+  color: #7B4DF6;
+  background: none;
+  border: 1px solid #7B4DF6; 
+}
+.btn-grey {
+  color: #8D8D8D;
+  background: #F5F5F5;
+}
+.fz-18 {
+  font-size: 18px;
+}
+.fz-20 {
+  font-size: 20px;
+}
+.fz-22 {
+  font-size: 22px;
+}
+/* buttons */
+
+
+/* colors */
+.c-purple {
+  color: #7B4DF6;
+}
