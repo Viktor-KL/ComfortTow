@@ -1,6 +1,9 @@
 import Head from 'next/head';
 import styles from '@/styles/Home.module.css';
-import Header from './../components/Header/Header';
+import Header from '@/components/Header/Header';
+import About from '@/components/About/About';
+import Contact from '@/components/Contact/Contact';
+import Why from '@/components/Why/Why';
 
 export default function Home() {
   return (
@@ -13,6 +16,9 @@ export default function Home() {
       />
     </Head>
     <Header />
+    <About />
+    <Contact />
+    <Why />
    </div>
   )
 }

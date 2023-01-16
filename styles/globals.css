@@ -96,7 +96,7 @@ body {
     )
     rgb(var(--background-start-rgb));
     background: #fff;
-    font-family: 'Jost', sans-serif;
+    font-family: 'Jost', sans-serif !important;
 }
 
 a {
@@ -109,9 +109,21 @@ a {
   margin: 0 auto;
 }
 
+.title {
+  font-size: 32px;
+  color: #000;
+  font-weight: 700;
+}
+
 .subtitles {
   color: #000;
   opacity: .5;
+}
+
+.vertical-line {
+  height: 60px;
+  width: 1px;
+  background: #F5F5F5;
 }
 
 /* buttons */
@@ -156,6 +168,9 @@ a {
 /* colors */
 .c-purple {
   color: #7B4DF6;
+}
+.c-white {
+  color: #fff;
 }
 /* colors */
 

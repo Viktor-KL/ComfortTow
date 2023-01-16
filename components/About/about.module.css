@@ -1,0 +1,31 @@
+.wrap {
+    display: flex;
+    gap: 30px;
+    padding: 100px 0;
+}
+.imgBlock {
+    height: 270px;
+    min-width: 500px;
+    border-radius: 15px;
+    background: url('./../../public/img/About/img-1.png') no-repeat;
+    background-size: contain;
+    background-position: center;
+}
+.infoBlock__statistics {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.statistics__part {
+    margin-top: 30px;
+}
+.statistics__title {
+    font-size: 32px;
+    font-weight: 500;
+    color: #7B4DF6;
+}
+.statistics__subtitle {
+    font-size: 24px;
+    color: #000;
+    opacity: .5;
+}
