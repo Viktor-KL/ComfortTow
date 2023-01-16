@@ -1,0 +1,65 @@
+.wrap {
+    padding: 70px 0;
+    display: flex;
+    justify-content: space-between;
+    background: url('./../../public/img/Header/img-1.png') no-repeat;
+    background-position: right;
+    background-size: contain;
+}
+.offerBlock {
+    background: #ffffff95;
+    border-radius: 15px;
+    box-shadow: 0px 9px 20px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    max-width: 450px;
+}
+.title {
+    font-size: 56px;
+    font-weight: 600;
+    color: #000;
+}
+.infoBlock {
+    max-width: 660px;
+}
+.subtitle {
+    margin: 10px 0 40px;
+}
+.offerBlock__title {
+    font-size: 24px;
+    color: #000;
+    font-weight: 500;
+}
+.offerBlock__address {
+    font-size: 13px;
+    color: #000;
+    margin-bottom: 8px;
+}
+.offerBlock__room {
+    font-size: 13px;
+    color: #000;
+}
+.offerBlock__name {
+    font-size: 16px;
+    color: #000;
+}
+.offerBlock__price {
+    font-size: 16px;
+    color: #7B4DF6;
+}
+.offerBlock__head {
+    gap: 20px;
+}
+.offerBlock__roomWrap {
+    gap: 12px;
+}
+.offerBlock__avatarWrap {
+    margin: 24px 0;
+}
+.offerBlock__subtitle {
+    margin-bottom: 30px;
+}
+.offerBlock__btn {
+    display: block;
+    width: 100%;
+    text-align: center;
+}

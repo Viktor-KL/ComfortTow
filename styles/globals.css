@@ -109,6 +109,11 @@ a {
   margin: 0 auto;
 }
 
+.subtitles {
+  color: #000;
+  opacity: .5;
+}
+
 /* buttons */
 .btn {
   padding: 10px 50px;
@@ -128,6 +133,12 @@ a {
   color: #8D8D8D;
   background: #F5F5F5;
 }
+/* buttons */
+
+/* font size */
+.fz-14 {
+  font-size: 14px;
+}
 .fz-18 {
   font-size: 18px;
 }
@@ -137,10 +148,30 @@ a {
 .fz-22 {
   font-size: 22px;
 }
-/* buttons */
-
+.fz-24 {
+  font-size: 24px;
+}
+/* font size */
 
 /* colors */
 .c-purple {
   color: #7B4DF6;
+}
+/* colors */
+
+/* commands */
+.d-flex {
+  display: flex;
+}
+.fd-column {
+  flex-direction: column;
+}
+.fd-row {
+  flex-direction: row;
+}
+.ai-c {
+  align-items: center;
+}
+.jc-sb {
+  justify-content: space-between;
 }
