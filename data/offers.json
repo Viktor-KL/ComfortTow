@@ -1,0 +1,23 @@
+[
+    {
+        "image": "img-1.png",
+        "city": "Ivano-Frankivsk",
+        "price": "400$/mm",
+        "address": "10 Tselevicha Yu. str",
+        "type": "home"
+    },
+    {
+        "image": "img-2.png",
+        "city": "Ivano-Frankivsk",
+        "price": "400$/mm",
+        "address": "10 Tselevicha Yu. str",
+        "type": "apartaments"
+    },
+    {
+        "image": "img-3.png",
+        "city": "Ivano-Frankivsk",
+        "price": "400$/mm",
+        "address": "10 Tselevicha Yu. str",
+        "type": "commercial"
+    }
+]

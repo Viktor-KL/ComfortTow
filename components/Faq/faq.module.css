@@ -1,0 +1,17 @@
+.wrap {
+    gap: 30px;
+    padding-bottom: 100px;
+}
+.accordianTitle {
+    font-size: 22px;
+    font-weight: 500;
+    color: #000;
+}
+.collapse:active .accordianTitle{
+    color: #fff;
+}
+.accordianSubtitle {
+    font-size: 18px;
+    color: #000;
+    opacity: .5;
+}

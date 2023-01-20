@@ -1,6 +1,7 @@
 .wrap {
     background: #7B4DF6;
     padding: 50px 0;
+    border-radius: 15px;
 }
 .title {
     font-size: 32px;

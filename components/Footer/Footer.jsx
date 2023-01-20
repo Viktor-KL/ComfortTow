@@ -1,8 +1,8 @@
 import styles from './footer.module.css';
 
 const Footer = () => (
-    <div>
-
+    <div className={`container ${styles.wrap}`}>
+        
     </div>
 )
 
